@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+numpy
+scikit-learn
+weaviate-client
+python-dotenv
